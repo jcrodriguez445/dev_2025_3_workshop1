@@ -91,4 +91,4 @@ class Magic:
             return False
         if sum(matriz[i][n - 1 - i] for i in range(n)) != suma_objetivo:
             return False
-        return True
+        return 

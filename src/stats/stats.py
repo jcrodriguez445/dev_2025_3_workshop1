@@ -44,5 +44,5 @@ class Stats:
     
     def rango(self, numeros):
         if not numeros:
-            return 0
+            return 
         return max(numeros) - min(numeros)
